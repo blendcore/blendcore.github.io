@@ -1,1 +1,3 @@
-# blendcore.github.io
+# {{ site.title }}
+
+{{ site.description }}
